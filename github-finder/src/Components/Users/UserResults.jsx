@@ -1,6 +1,6 @@
 import React from 'react'
 import { useEffect, useState } from 'react'
-import Spinner from './Spinner'
+import Spinner from '../Spinner'
 
 function UserResults() {
     const [users, setUsers] = useState([])
