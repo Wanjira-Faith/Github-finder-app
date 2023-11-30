@@ -1,10 +1,11 @@
 import React from 'react'
+import UserResults from '../UserResults'
 
 function Home() {
   return (
-    <div>
-      <h1 className="text-6xl"></h1>
-    </div>
+    <>
+      <UserResults/>
+    </>
   )
 }
 
