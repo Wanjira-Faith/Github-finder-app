@@ -18,7 +18,7 @@ function App() {
             <Route path='/about' element={<About/>} />
             <Route path='/notfound' element={<NotFound/>} />
             <Route path='/*' element={<NotFound/>} />
-         </Routes>
+           </Routes>
          </main>
          <Footer/>
       </div>
