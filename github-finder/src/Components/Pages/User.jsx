@@ -1,4 +1,4 @@
-import { FaCode, FaCodepen, FaStore, FaUserFriends, FaUsers} from 'react-icons/fa'
+import { FaCodepen, FaStore, FaUserFriends, FaUsers} from 'react-icons/fa'
 import { useEffect, useContext } from 'react'
 import { Link } from 'react-router-dom'
 import Spinner from '../Spinner'
