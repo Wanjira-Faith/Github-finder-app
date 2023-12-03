@@ -62,8 +62,8 @@ function User() {
                         <img src={avatar_url} alt='' />
                     </figure>
                     <div className="card-body justify-end">
-                        <h2 className="card-title mb-0">{name}</h2>
-                        <p>{login}</p>
+                        <h2 className="card-title mb-0 text-white">{name}</h2>
+                        <p className='text-white'>{login}</p>
                     </div>
                 </div>
             </div>
